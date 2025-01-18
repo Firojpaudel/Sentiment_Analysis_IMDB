@@ -1,0 +1,8 @@
+transformers 
+datasets 
+torch
+pandas 
+seaborn 
+matplotlib
+scikit-learn
+regex
