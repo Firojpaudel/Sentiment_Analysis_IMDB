@@ -31,7 +31,7 @@ Replace `YOUR_USERNAME` and `YOUR_KEY` with your Kaggle username and API key.
 ## 📂 **Notebooks**
 
 ### 🧠 **Modern Method**: Fine-Tuning DistilBERT
-- **Notebook**: `modern_sentiment_analysis.ipynb`
+- **Notebook**: [sentiment_analysis_IMDB_Firoj.ipynb](./sentiment_analysis_IMDB_Firoj.ipynb)
 - **Model**: [DistilBERT](https://huggingface.co/distilbert-base-uncased)
 - **Description**: Implements a modern NLP approach by fine-tuning the IMDb dataset using Hugging Face's Trainer API.
 - **Metrics**:
@@ -60,7 +60,7 @@ Replace `YOUR_USERNAME` and `YOUR_KEY` with your Kaggle username and API key.
 
 ---
 ### 📈 Traditional Method: Logistic Regression
-- **Notebook**: traditional_sentiment_analysis.ipynb
+- **Notebook**: [sentiment_analysis_IMDB_Firoj_trad.ipynb](./sentiment_analysis_IMDB_Firoj_trad.ipynb)
 - **Model**: Logistic Regression
 - **Description**: Explores a traditional machine learning approach for sentiment analysis.
 - **Metrics**:
