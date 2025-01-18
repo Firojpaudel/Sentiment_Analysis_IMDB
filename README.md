@@ -1,6 +1,8 @@
 # 📚 **Fellowship.ai** Cohort 34 Submission _(NLP)_
 
-Welcome to the official repository for the **Fellowship.ai Cohort 34** submission, focused on **NLP** tasks.
+Welcome to my repository made for the **Fellowship.ai Cohort 34** submission, focused on **NLP** task. 
+
+The task given was to perform the sentiment analysis on `IMDb Dataset of 50K Movie Reviews` dataset.
 
 ---
 
